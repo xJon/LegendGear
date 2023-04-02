@@ -1,0 +1,79 @@
+item.shardEmerald.name=Emerald Shard
+item.pieceEmerald.name=Emerald Piece
+
+item.starDust.name=Stardust
+item.starPiece.name=Star Piece
+item.starStone.name=Starstone
+item.starDustCharged.name=Infused Stardust
+item.starPieceCharged.name=Infused Star Piece
+item.starStoneCharged.name=Infused Starstone
+
+item.ingotStarglass.name=Starglass Lump
+item.ingotStarsteel.name=Starsteel Ingot
+item.starglassSword.name=Starglass Sword
+item.magicBoomerang.name=Magic Boomerang
+item.dustStarsteel.name=Starry Iron Dust
+
+
+item.dimensionalCatalyst.name=Dimensional Catalyst
+
+item.milkChocolate.name=Milk Chocolate
+item.reedPipes.name=Reed Pipes
+item.badBow.name=Bow?
+
+item.orb.empty.name=Starglass Shell
+item.orb.lava.name=Lava Shell
+item.orb.water.name=Water Shell
+item.orb.milk.name=Milk Shell
+item.orb.blast.name=Blast Shell
+item.orb.twinkle.name=Glittering Orb
+item.orb.fire.name=Burning Orb
+item.orb.zap.name=Shocking Orb
+item.orb.ice.name=Freezing Orb
+
+
+item.twinkleStaff.name=Twinkle Staff
+item.fireStaff.name=Ember Staff
+item.iceStaff.name=Frost Staff
+item.zapStaff.name=Jolt Staff
+
+entity.fallingStar.name=Falling Star
+
+tile.starstoneBlock.name=Starstone Block
+tile.infusedStarstoneBlock.name=Infused Starstone Block
+tile.starSand.name=Starry Sand
+tile.starGlass.name=Starglass
+tile.caltrops.name=Caltrops
+tile.azuriteOre.name=Azurite Ore
+tile.starAltar.name=Star Altar
+tile.fragstoneBlock.name=Fragstone
+
+
+death.attack.caltrops=%1$s died of perforated feet
+death.attack.caltrops.player=%1$s stepped on caltrops whilst trying to escape %2$s
+death.attack.blastShell=%1$s was careless with explosives
+death.attack.blastShell.player=%1$s got blown up by %1$s
+death.attack.zapSpell=%1$s was electrocuted
+death.attack.zapSpell.player=%1$s was electrocuted by %2$s's spell
+death.attack.fireSpell=%1$s was incinerated
+death.attack.fireSpell.player=%1$s was roasted by %2$s's spell
+death.attack.iceSpell=%1$s was frozen solid
+death.attack.iceSpell.player=%1$s was put on ice by %2$s
+
+
+
+
+itemGroup.lgTab=LegendGear 2
+
+attribute.name.lg2.criticalBonus=Critical Strike Damage
+attribute.name.lg2.arcanePower=Arcane Power
+attribute.name.lg2.spellSurgePower=Surge Boost
+attribute.name.lg2.spellRange=Spell Range
+attribute.name.lg2.spellRadius=Spell Radius
+
+attribute.name.lg2.spellDamageRatio=Spell Damage Ratio
+attribute.name.lg2.spellDurationRatio=Spell Duration Ratio
+attribute.name.lg2.armorPenaltyScaling=Armor Penalty Multiplier
+
+lg2text.armorPenaltyAnnotation=(Armored: -%1$d%% casting speed)
+

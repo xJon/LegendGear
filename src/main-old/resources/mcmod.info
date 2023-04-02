@@ -1,0 +1,16 @@
+[
+{
+  "modid": "legendgear",
+  "name": "Legend Gear 2",
+  "description": "It's tentatively back.",
+  "version": "",
+  "mcversion": "1.7.10",
+  "url": "http://nmccoy.net/",
+  "updateUrl": "",
+  "authorList": ["NMcCoy"],
+  "credits": "A fox, a kittygoat, and some kobolds.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

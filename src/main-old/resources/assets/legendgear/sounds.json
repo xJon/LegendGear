@@ -1,0 +1,24 @@
+{
+ "moneysmall": {"category": "master","sounds": [{"name": "moneysmall","stream": false}]},
+ "moneymid": {"category": "master","sounds": [{"name": "moneymid","stream": false}]},
+ "moneybig": {"category": "master","sounds": [{"name": "moneybig","stream": false}]},
+ "starcaught": {"category": "master","sounds": [{"name": "starcaught","stream": false}]},
+ "twinkle": {"category": "master","sounds": [{"name": "twinkle","stream": false}]},
+ "starfall": {"category": "master","sounds": [{"name": "starfall","stream": false}]},
+ "fluteattack": {"category": "master","sounds": [{"name": "fluteattack","stream": false}]},
+ "flutesustain": {"category": "master","sounds": [{"name": "flutesustain","stream": false}]};
+ 
+ "partialcharge": {"category": "master","sounds": [{"name": "partialcharge","stream": false}]};
+ "truncatedfullcharge": {"category": "master","sounds": [{"name": "truncatedfullcharge","stream": false}]};
+ 
+ "smash":{"category": "master","sounds": [{"name": "escalate","stream": false}]};
+ "highcharge":{"category": "master","sounds": [{"name": "highcharge","stream": false}]};
+ "eviscerate":{"category": "master","sounds": [{"name": "eviscerate","stream": false}]};
+ "spellcrit":{"category": "master","sounds": [{"name": "spellcrit","stream": false}]};
+ 
+ 
+ "spell.Twinkle":{"category": "master","sounds": [{"name": "twinklespell","stream": false}]};
+ 
+ "caltropstap": {"category": "master","sounds": [{"name": "caltropstap1","stream": false};{"name": "caltropstap2","stream": false}]};
+ "caltropsland": {"category": "master","sounds": [{"name": "caltropsland","stream": false};{"name": "caltropsland2","stream": false};{"name": "caltropsland3","stream": false}]}
+}

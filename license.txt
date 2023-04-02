@@ -1,0 +1,4 @@
+The assets and code created by Nathan McCoy in this collection of files are published under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 license. 
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Other code (such as the ThaumCraft API) is included for compatibility purposes only and is not covered by this license.
